@@ -1,7 +1,3 @@
-// 1180414 Yazan Daibes
-// 1181557 Kareen Karam 
-// 1180424 Omar Qattosh
-
 //PROJECT 1
 //A multi-processing application that simulates a guessing game between 2 processes using signals and pipes.
 //The parent should fork 2 children (p1 and p2) and 1 referee process (R)
